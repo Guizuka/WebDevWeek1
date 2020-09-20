@@ -1,0 +1,11 @@
+{
+    "name": "web-dev-week1",
+    "type": "module",
+    "version": "0.0.0",
+    "description": "WebDevWeek1",
+    "main": "app.js",
+    "author": {
+      "name": ""
+    }
+  }
+  
